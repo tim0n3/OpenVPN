@@ -16,7 +16,7 @@ Once it ends, you can run it again to add more users, remove some of them or eve
 
 ### I want to run my own VPN but don't have a server for that
 You can get €20 credits and a VPS from just €2.86/month (€0.005/hour) at [Hetzner](https://hetzner.cloud/?ref=lW5DRok8tHpb).
-# OR
+OR
 You can get $100 credits and a VPS (Droplet) from just $5/month ($0.007/hour) at [DigitalOcean](https://m.do.co/c/212bea11424f).
 
 ### Donations
