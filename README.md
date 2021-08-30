@@ -21,4 +21,4 @@ You can get $100 credits and a VPS (Droplet) from just $5/month ($0.007/hour) at
 
 ### Donations
 
-If you want to show your appreciation, you can donate via [PayPal](https://www.paypal.com/donate?hosted_button_id=ULMMXE4DLQVZS) or [cryptocurrency](https://pastebin.com/raw/M2JJpQpC). Thanks!
+If you want to show your appreciation, you can donate via [PayPal](https://www.paypal.com/donate?hosted_button_id=ULMMXE4DLQVZS) . Thanks!
