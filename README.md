@@ -10,7 +10,7 @@ This script will let you set up your own VPN server in no more than a minute, ev
 ### Installation
 Run the script and follow the assistant:
 
-`wget https:// -O quickVPN.sh && bash quickVPN.sh`
+`wget https://raw.githubusercontent.com/tim0n3/OpenVPN/main/quickVPN.sh -O quickVPN.sh && bash quickVPN.sh`
 
 Once it ends, you can run it again to add more users, remove some of them or even completely uninstall OpenVPN.
 
